@@ -1,4 +1,4 @@
-# NFL Combine & Draft Impact: Who Will Succeed?
+# NFL Combine & Draft Impact: Which Wide Receivers Will Succeed? 
 
 ## Project Overview
 
