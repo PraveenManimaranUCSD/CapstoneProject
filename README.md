@@ -22,6 +22,8 @@ The goal of this project is to analyze whether athletic performance in the NFL C
   * Filtered for Wide Receivers (WRs)
 
   * Merged datasets on player ID
+    
+  * Filter for rookie season
 
   * Imputed missing values using median imputation
 
