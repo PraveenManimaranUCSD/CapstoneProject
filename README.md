@@ -52,6 +52,8 @@ We conducted various analyses including:
     
   * Scatter Plots: Explored relationships between draft rounds and success metrics
 
+  * Bar Charts: Analyzed the feature significance of various performance metrics
+
 ## Results Summary
 
   * Players drafted earlier in the draft tend to have higher fantasy point averages.
