@@ -67,3 +67,8 @@ We conducted various analyses including:
   * Praveen Manimaran
   * Vitush Agarwal
   * William Guy
+
+# How to Run the Code
+
+
+
